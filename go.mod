@@ -1,4 +1,4 @@
-module github/hongwei-yu/hhfifo
+module github.com/Hongwei-Yu/hhfifo
 
 go 1.22.5
 
